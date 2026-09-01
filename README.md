@@ -4,7 +4,7 @@
 <tr>
 <td width="46%" align="center" valign="middle">
 
-<img src="./assets/matrix_reveal.gif" width="560" alt="hand-drawn portrait revealed through digital code" />
+<img src="https://raw.githubusercontent.com/adj-04/adj-04/main/assets/matrix_reveal.gif?v=2" width="560" alt="hand-drawn portrait revealed through digital code" />
 
 </td>
 <td width="54%" valign="middle">
