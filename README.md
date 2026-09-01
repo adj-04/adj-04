@@ -14,7 +14,7 @@
 <p><b>Computer Science @ VIT Chennai</b></p>
 
 <p>
-I build across computational biology, applied ML, security, and agentic AI — with a side obsession for art, visual design, and making things unnecessarily polished.
+I build across computational biology, applied ML, security, and agentic AI - with a side obsession for art, photography , chess , and making things unnecessarily polished.
 </p>
 
 <p>
@@ -25,7 +25,7 @@ Chennai, India
 
 <hr>
 
-<h3>⚙️ Stack</h3>
+<h3>Stack</h3>
 
 <p><b>Languages</b><br>
 Python · C · Java · SQL · R · HTML/CSS</p>
