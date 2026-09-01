@@ -25,7 +25,7 @@ Chennai, India
 
 <hr>
 
-<h3>⚙️ Stack</h3>
+<h3>Stack</h3>
 
 <p><b>Languages</b><br>
 Python · C · Java · SQL · R · HTML/CSS</p>
